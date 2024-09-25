@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @n-murray
 - 👀 I’m interested in cloud native application development. 
-- 🌱 I’m currently learning about containerising applications. 
-- 💞️ I’m looking to collaborate on a self hosted Vpn that can act as its own Dynamic DNS. (Dreams can come true) 
+- 🌱 I’m currently learning about all things cloud native and scalability  
 - 📫 How to reach me email. 
 
 <!---
